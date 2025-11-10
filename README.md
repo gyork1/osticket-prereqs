@@ -39,8 +39,8 @@ Step 1: Created VM & Connect → Made an Azure Windows 10 VM → Logged in via R
 </p>
 <br />
 
-<p>
-<img width="1444" height="928" alt="image" src="https://github.com/user-attachments/assets/a314f9f9-47eb-4174-bc43-9f1840462a43" />
+<img width="1439" height="930" alt="image" src="https://github.com/user-attachments/assets/2bc97e85-4ae1-460c-953f-1113aa6cc30e" />
+
 
 </p>
 <p>
@@ -48,7 +48,8 @@ Step 2: Prepared Files → Installed IIS & Dependencies → Enabled IIS with CGI
 </p>
 <br />
 
-<img width="1445" height="933" alt="image" src="https://github.com/user-attachments/assets/e83ba2d6-0ec5-4e02-af91-2296098c8654" />
+<img width="1424" height="902" alt="image" src="https://github.com/user-attachments/assets/3fb41116-213e-44bc-af8d-2883865c893f" />
+
 
 </p>
 <p>
