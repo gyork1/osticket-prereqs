@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+-Azure Subscription – to create Virtual Machine.
+- Windows 10 VM (4 vCPUs) – created in Azure and accessible with RDP.
+- Valid RDP client – to log into the VM remotely.
+- osTicket-Installation-Files.zip – available for download (containing osTicket, PHP, MySQL, IIS tools, etc.).
+- Stable internet connection
 
 <h2>Installation Steps</h2>
 
@@ -56,3 +56,9 @@ Step 2: Prepared Files → Installed IIS & Dependencies → Enabled IIS with CGI
 Step 3: Set Up PHP → Created C:\PHP → Unzipped PHP 7.3.8 into it → Registered php-cgi.exe in IIS → Restarted IIS.
 </p>
 <br />
+<img width="1422" height="891" alt="image" src="https://github.com/user-attachments/assets/5c5dc209-08bb-4f20-a422-9624786e0323" />
+Step 4: Deployed osTicket → Unzipped osTicket v1.15.8 → Moved “upload” folder into C:\inetpub\wwwroot\ → Renamed it osTicket → Restarted IIS.
+<img width="1423" height="890" alt="image" src="https://github.com/user-attachments/assets/3953ad11-ce6f-4e60-ab59-e21383b9b9ca" />
+Step 5: Configured osTicket → Enabled PHP extensions (imap, intl, opcache) → Renamed ost-sampleconfig.php to ost-config.php → Set permissions
+
+
