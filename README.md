@@ -40,17 +40,18 @@ Step 1: Created VM & Connect → Made an Azure Windows 10 VM → Logged in via R
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1444" height="928" alt="image" src="https://github.com/user-attachments/assets/a314f9f9-47eb-4174-bc43-9f1840462a43" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2: Prepared Files → Installed IIS & Dependencies → Enabled IIS with CGI → Installed PHP Manager, Rewrite Module, VC_redist, and MySQL.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1445" height="933" alt="image" src="https://github.com/user-attachments/assets/e83ba2d6-0ec5-4e02-af91-2296098c8654" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3: Set Up PHP → Created C:\PHP → Unzipped PHP 7.3.8 into it → Registered php-cgi.exe in IIS → Restarted IIS.
 </p>
 <br />
