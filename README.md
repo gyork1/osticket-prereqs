@@ -39,7 +39,8 @@ Step 1: Created VM & Connect → Made an Azure Windows 10 VM → Logged in via R
 </p>
 <br />
 
-<img width="1439" height="930" alt="image" src="https://github.com/user-attachments/assets/2bc97e85-4ae1-460c-953f-1113aa6cc30e" />
+<img width="1442" height="906" alt="image" src="https://github.com/user-attachments/assets/a59ade74-df06-4eb2-b6f7-453ac036fb48" />
+
 
 
 </p>
